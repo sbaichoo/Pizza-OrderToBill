@@ -56,16 +56,16 @@ OR
 http://localhost:8080/api/order/?pizzaType=veggie&base=thin
 
 {
-    "totalPrice": 315,
+    "totalPrice": 280,
     "currency": "RS",
     "order": {
-        "orderId": 518,
+        "orderId": 825,
         "pizza": {
-            "pizzaType": "chicken",
+            "pizzaType": "veggie",
             "base": "thin",
-            "toppings": "pepperoni"
+            "toppings": "no"
         },
-        "readyTime": "10:27:57.2192713"
+        "readyTime": "20:03:24.8960828"
     }
 }
 
